@@ -1,0 +1,30 @@
+
+label{
+    display: block;
+}
+form{
+    width:100%
+}
+.container{
+margin-top:50px;
+}
+button
+{
+    margin-top:20px;
+}
+span{
+    font-size: 50px;
+    color:cyan;
+}
+
+.card-header{
+    background-color: black;
+}
+h1{
+    color:yellow;
+    font-size: 40px;
+}
+
+b{
+    font-size: 20px;
+}
